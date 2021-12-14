@@ -1,2 +1,2 @@
-<h1>We don't
-store any user's data. </h1>
+<h1>We do not
+store any data of user. </h1>
